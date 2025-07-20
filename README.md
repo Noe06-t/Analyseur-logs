@@ -1,1 +1,2 @@
 # Analyseur-logs
+Analyseur-logs est un outil permettant d'analyser et de traiter des fichiers de logs système ou applicatifs. Il propose des scripts pour extraire, filtrer et visualiser les données importantes afin de faciliter le diagnostic et le suivi des événements sur différents environnements (Windows, Linux, etc.).
